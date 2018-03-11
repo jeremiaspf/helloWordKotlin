@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Pedazo de aplicación</string>
-    <string name="ESP_000001">Nombre de pila</string>
+    <string name="ESP_000001">Es el nombre de pila</string>
     <string name="ESP_000002">Saludar</string>
     <string name="ESP_000003">Siguiente</string>
 </resources>
