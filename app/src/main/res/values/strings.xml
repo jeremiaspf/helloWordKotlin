@@ -2,5 +2,5 @@
     <string name="app_name">Pedazo de aplicación</string>
     <string name="ESP_000001">Es el nombre de pila</string>
     <string name="ESP_000002">Saludar a la nueva rama</string>
-    <string name="ESP_000003">Siguiente</string>
+    <string name="ESP_000003">Siguiente valor</string>
 </resources>
